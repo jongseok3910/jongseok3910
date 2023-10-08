@@ -3,7 +3,8 @@
 
 ## 💻 DEV's log 💻
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hamutang&theme=default)](https://hamutang.tistory.com)
-
+##  Github stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseok3910&show_icons=true&theme=dark)
 <!--
 **jongseok3910/jongseok3910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

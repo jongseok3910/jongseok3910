@@ -5,10 +5,6 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongseok3910&show_icons=true&theme=dark)
 
-<!--
-## 💻 Tony's log 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hamutang&theme=default)](https://hamutang.tistory.com)
--->
 
 
 <!--
